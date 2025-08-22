@@ -78,8 +78,8 @@ I also integrated **extra research data (EV charging stations by state)** to tes
 ---
 
 ## 🛠️ Tech Stack  
-- **SQL (MySQL)** → Data storage, cleaning, modeling  
-- **Power BI** → Dashboard creation, DAX, storytelling  
+- **SQL (MySQL)** → Data storage  
+- **Power BI** → Dashboard creation, DAX, storytelling, Data modeling  
 - **Excel/CSV** → Supporting datasets (charging infrastructure)  
 - **Data Storytelling** → Business insights & strategy framing  
 
