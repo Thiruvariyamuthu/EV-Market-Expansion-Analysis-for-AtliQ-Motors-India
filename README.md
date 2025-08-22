@@ -57,7 +57,7 @@ The dashboard covers:
 - State-level penetration rates  
 - CAGR growth  
 - Seasonal trends  
-- Sales forecasting till 2030  
+- Sales forecasting for 2030  
 - Strategic recommendations  
 
 ---
