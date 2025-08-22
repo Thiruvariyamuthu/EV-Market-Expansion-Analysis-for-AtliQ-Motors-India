@@ -63,7 +63,9 @@ The dashboard covers:
 ---
 
 ## 📊 Dashboard Preview  
-*(Insert screenshots here)*  
+
+**Home page**
+![Dashboard Overview](https://github.com/Thiruvariyamuthu/EV-Market-Expansion-Analysis-for-AtliQ-Motors-India/blob/main/Home%20page.png?raw=true)
 
 ---
 
