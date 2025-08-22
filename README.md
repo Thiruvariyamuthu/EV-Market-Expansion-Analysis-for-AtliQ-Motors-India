@@ -50,7 +50,7 @@ The analytics team was asked to:
 ## ⚡ Approach  
 To achieve this, I created an **interactive Power BI dashboard**.  
 
-> “In this project, I analysed the EV sales data from 2021 to 2024 to evaluate regional performance, assess market penetration levels across Indian states, and uncover key trends and opportunities that can guide AtliQ Motors’ strategic decisions.”  
+> “In this project, I analysed the EV sales data from Fiscal Year 2022 to 2024 to evaluate regional performance, assess market penetration levels across Indian states, and uncover key trends and opportunities that can guide AtliQ Motors’ strategic decisions.”  
 
 The dashboard covers:  
 - Maker-level analysis  
