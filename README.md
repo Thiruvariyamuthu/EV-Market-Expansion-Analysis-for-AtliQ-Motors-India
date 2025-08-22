@@ -64,8 +64,15 @@ The dashboard covers:
 
 ## 📊 Dashboard Preview  
 
-**Home page**
+**Home Page**
 ![Dashboard Overview](https://github.com/Thiruvariyamuthu/EV-Market-Expansion-Analysis-for-AtliQ-Motors-India/blob/main/Home%20page.png?raw=true)
+**Makers Analysis**
+![Dashboard Overview](https://github.com/Thiruvariyamuthu/EV-Market-Expansion-Analysis-for-AtliQ-Motors-India/blob/main/Makers%20Analysis.png?raw=true)
+**State Analysis**
+![Dashboard Overview](https://github.com/Thiruvariyamuthu/EV-Market-Expansion-Analysis-for-AtliQ-Motors-India/blob/main/State%20Analysis.png?raw=true)
+**Top 3 Recommendations**
+![Dashboard Overview](https://github.com/Thiruvariyamuthu/EV-Market-Expansion-Analysis-for-AtliQ-Motors-India/blob/main/Top%203%20Recommendations.png?raw=true)
+
 
 ---
 
